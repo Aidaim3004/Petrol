@@ -1,11 +1,11 @@
 const boxImg = document.querySelectorAll('.box-Img')
 const inputliters = document.querySelector('.input-liters')
 const price1L = document.querySelector('.price')
-const petrolType = document.querySelectorAll('.petrolType')
-const priceOneLiter = document.querySelector('.priceOneLiter')
-const liters = document.querySelectorAll('.liters')
-const vat = document.querySelectorAll('.vat')
-const totalPrice = document.querySelectorAll('.totalPrice')
+// const petrolType = document.querySelectorAll('.petrolType')
+// const priceOneLiter = document.querySelector('.priceOneLiter')
+// const liters = document.querySelectorAll('.liters')
+// const vat = document.querySelectorAll('.vat')
+// const totalPrice = document.querySelectorAll('.totalPrice')
 
 
 
@@ -25,6 +25,6 @@ boxImg.forEach((item) =>{
 inputliters.addEventListener('click', () =>{
     if(price1L.value.length === ''){
         alert('Введите сумму за 1 литр!')
-    }
+    }else if ()
 })
 
