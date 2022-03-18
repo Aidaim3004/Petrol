@@ -45,6 +45,7 @@ body {
 
 .box-Img {
     background: linear-gradient(180deg, #E0E2E6 0%, #FFFFFF 100%);
+    box-shadow: 16px 3.33333px 6.66667px rgba(49, 50, 51, 0.121);
     border-radius: 15px;
     border: 1px solid rgba(0, 0, 0, 0.31);
     padding: 35px 53px 40px 45px;
